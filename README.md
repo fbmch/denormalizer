@@ -1,10 +1,10 @@
-#denormalize xcel file with uid in first column in all sheets 
+# denormalize xcel file with uid in first column in all sheets 
 
-##dependencies: openpyxl
+## dependencies: openpyxl
 
-##python3+
+## python3+
 
-###edit id\_manager.py for your use case
+### edit id\_manager.py for your use case
 
-###example: ./app.py  ~/Downloads/normalizaded.xlsx
+### example: ./app.py  ~/Downloads/normalizaded.xlsx
 
