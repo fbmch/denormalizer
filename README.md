@@ -1,8 +1,6 @@
 # denormalize xcel file with uid in first column in all sheets 
 
-## dependencies: openpyxl
-
-## python3+
+## dependencies: python3+, openpyxl 
 
 ### edit id\_manager.py for your use case
 
