@@ -4,5 +4,6 @@
 
 ### edit id\_manager.py for your use case
 
-### example: ./app.py  ~/Downloads/normalizaded.xlsx
+### example: 
+`./app.py  ~/Downloads/normalized.xlsx`
 
